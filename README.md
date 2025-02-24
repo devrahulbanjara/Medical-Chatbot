@@ -1,5 +1,9 @@
 # Medical Chatbot
 
+<p align="center">
+  <img src="docs/chatbot.png" alt="Medical Chatbot Screenshot" width="600"/>
+</p>
+
 A sophisticated AI-driven medical chatbot designed for accurate and efficient information retrieval. This system integrates advanced natural language processing (NLP) models with vector databases to provide precise responses based on medical literature. The chatbot supports large language models like **Llama 3.1** from Meta, offering scalable solutions for diverse healthcare applications.
 
 ---
