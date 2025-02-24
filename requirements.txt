@@ -7,4 +7,5 @@ langchain-ollama
 sentence-transformers
 pinecone
 pypdf
+flask
 -e .
